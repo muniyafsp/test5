@@ -1,4 +1,3 @@
 <?php
-echo 'test';
-echo 'welcome';
+echo "This is contact page2.";
 ?>
